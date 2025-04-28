@@ -20,8 +20,8 @@ Este projeto fornece uma solução Docker automatizada para implementar um servi
 
 1. Clone este repositório para o seu servidor:
    ```bash
-   git clone https://seu-repositorio/openvpn.git
-   cd openvpn
+   git clone https://seu-repositorio/OpenVpn-Automatico.git
+   cd OpenVpn-Automatico
    ```
 
 2. Torne os scripts executáveis:
